@@ -1,0 +1,24 @@
+#text-container {
+    margin: 20px;
+}
+
+#user-input {
+    margin-top: 10px;
+}
+
+#reset-button {
+    margin-top: 10px;
+    background-color: #0074b2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#reset-button:hover {
+    background-color: #005483;
+}
+
+#result {
+    font-weight: bold;
+}
